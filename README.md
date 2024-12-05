@@ -1,21 +1,16 @@
-<h1>Hi, I'm Sheri! <br/><a href="https://github.com/Hansen-M-Sheri">Software Developer</a>, <a href="https://https://www.linkedin.com/in/sheri-hansen/">Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Sheri! <br/><a href="https://github.com/Hansen-M-Sheri">Software Developer</a>, <a href="https://https://www.linkedin.com/in/sheri-hansen/">Professional</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in C#](https://github.com/Hansen-M-Sheri/Algorithms-Practice)
 - <b>Full Stack Web App (Add stack description here)</b>
-  - [Description](https://github.com/Hansen-M-Sheri/FullStackWebAppURL) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Description](https://github.com/Hansen-M-Sheri/URL)
+  - [Expense Tracker](https://github.com/Hansen-M-Sheri/ExpenseTracker)
 - <b>C# (.NET Applications)</b>
-  - [Expense Tracker](https://github.com/joshmadakor1/EncrypterPOC)
-- <b>API Development</b>
-  - [Connect and Conquer Snapshot Play/Events]![Postman Endpoints 1](https://drive.google.com/file/d/1TRzAKPBqeCSfa5fuj127NLjJPhNuQvZs/view?usp=drive_link)
-  - [Connect and Conquer Snapshot Play/Events]![Postman Endpoints 1](https://imgur.com/a/Qew6fnO)
+  - [Battleship](https://github.com/Hansen-M-Sheri/Battleship)
 
-<h2>📺 Popular YouTube Videos</h2>
-- [Demo SnapshotPlay](youtube.url)
+- <b>API Development</b>
+   - [Connect and Conquer Snapshot Capture](https://github.com/Hansen-M-Sheri/SnapshotCapture)
+   - [Connect and Conquer Snapshot Capture](https://github.com/Hansen-M-Sheri/SnapshotEvents)
+    
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -30,3 +25,9 @@
 [instagram]: https://www.instagram.com/SheriHansen/ 
 [linkedin]: https://linkedin.com/in/sheri-hansen
 
+<!--
+<h2>📺 Popular YouTube Videos</h2>
+- [Demo SnapshotPlay](youtube.url)
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in C#](https://github.com/Hansen-M-Sheri/Algorithms-Practice)
+--!>
