@@ -9,7 +9,7 @@
 
 - <b>API Development</b>
    - [Connect and Conquer Snapshot Capture](https://github.com/Hansen-M-Sheri/SnapshotCapture)
-   - [Connect and Conquer Snapshot Capture](https://github.com/Hansen-M-Sheri/SnapshotEvents)
+   - [Connect and Conquer Snapshot Events](https://github.com/Hansen-M-Sheri/SnapshotEvents)
     
 
 <h2> 🤳 Connect with me:</h2>
